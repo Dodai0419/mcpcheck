@@ -1,0 +1,1 @@
+{"name":"mcpcheck","description":"Audit every MCP config on your machine for leaked keys, rug-pull risks and tool poisoning. Offline, no deps.","version":"0.1.0","author":{"name":"Dodai0419"}}

@@ -1,0 +1,14 @@
+{
+  "theme": "One Dark",
+  "context_servers": {
+    "pg": {
+      "command": {
+        "path": "npx",
+        "args": [
+          "pg-mcp"
+        ]
+      },
+      "settings": {}
+    }
+  }
+}

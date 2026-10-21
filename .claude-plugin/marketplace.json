@@ -1,0 +1,1 @@
+{"name":"mcpcheck","owner":{"name":"Dodai0419"},"plugins":[{"name":"mcpcheck","source":"./","description":"Audit every MCP config on your machine for leaked keys, rug-pull risks and tool poisoning. Offline, no deps."}]}

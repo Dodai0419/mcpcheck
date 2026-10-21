@@ -1,0 +1,102 @@
+{
+  "mcpServers": {
+    "server_01": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-01@latest"
+      ]
+    },
+    "server_02": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-02@latest"
+      ]
+    },
+    "server_03": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-03@latest"
+      ]
+    },
+    "server_04": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-04@latest"
+      ]
+    },
+    "server_05": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-05@latest"
+      ]
+    },
+    "server_06": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-06@latest"
+      ]
+    },
+    "server_07": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-07@latest"
+      ]
+    },
+    "server_08": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-08@latest"
+      ]
+    },
+    "server_09": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-09@latest"
+      ]
+    },
+    "server_10": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-10@latest"
+      ]
+    },
+    "server_11": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-11@latest"
+      ]
+    },
+    "server_12": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-12@latest"
+      ]
+    },
+    "server_13": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-13@latest"
+      ]
+    },
+    "server_14": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/server-14@latest"
+      ]
+    }
+  }
+}

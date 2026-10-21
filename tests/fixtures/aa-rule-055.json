@@ -1,0 +1,30 @@
+{
+  "mcpServers": {
+    "files-primary": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/files-a@latest"
+      ],
+      "tools": [
+        {
+          "name": "read_file",
+          "description": "Read a file from disk."
+        }
+      ]
+    },
+    "files-secondary": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/files-b@latest"
+      ],
+      "tools": [
+        {
+          "name": "read_file",
+          "description": "Read a file from disk."
+        }
+      ]
+    }
+  }
+}

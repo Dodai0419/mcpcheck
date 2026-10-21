@@ -1,0 +1,21 @@
+{
+  "servers": {
+    "py": {
+      "type": "stdio",
+      "command": "bash",
+      "args": [
+        "-c",
+        "python3 -m mcp_py"
+      ]
+    },
+    "wild": {
+      "command": "npx",
+      "args": [
+        "some-mcp@latest"
+      ],
+      "allowedTools": [
+        "*"
+      ]
+    }
+  }
+}

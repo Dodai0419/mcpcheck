@@ -1,0 +1,18 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "local-tool": {
+      "type": "local",
+      "command": [
+        "bun",
+        "x",
+        "my-mcp"
+      ],
+      "enabled": true
+    },
+    "remote-tool": {
+      "type": "remote",
+      "url": "http://203.0.113.5/mcp"
+    }
+  }
+}

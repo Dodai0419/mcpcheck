@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "loose-schema": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@example/loose-schema-server@latest"
+      ],
+      "tools": [
+        {
+          "name": "run_report",
+          "description": "Generate a report.",
+          "inputSchema": {
+            "type": "object",
+            "properties": {
+              "report_id": {
+                "type": "string"
+              }
+            },
+            "additionalProperties": true
+          }
+        }
+      ]
+    }
+  }
+}
